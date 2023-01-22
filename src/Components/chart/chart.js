@@ -6,6 +6,8 @@ import * as XLSX from 'xlsx';
 export function Chart(){
   const [chartData, setChartData] = useState({});
 
+
+  
   useEffect(() => {
     async function fetchData() {
       // fetch the Excel file
