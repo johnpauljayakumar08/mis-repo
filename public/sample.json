@@ -1,0 +1,122 @@
+[
+    {
+        "Domain":"SP",
+        "Domain Total": 30,
+        "Engineering Domain": 6,
+        "Engineering Non-Domain": 4,
+        "Science Domain": 14,
+        "Science Non-Domain": 3,
+        "Diploma Domain": 1,
+        "Diploma Non-Domain": 2,
+        "Basic": 7,
+        "Intermedian": 13,
+        "Advanced": 10,
+        "Trainable":10,
+        "Non-Trainable": 7,
+        "Interviewable": 13,
+        "link":"home3",
+        "fill":"#7D3AC1"
+    },
+    {
+        "Domain":"SAP",
+        "Domain Total": 27,
+        "Engineering Domain": 4,
+        "Engineering Non-Domain": 5,
+        "Science Domain": 10,
+        "Science Non-Domain": 2,
+        "Diploma Domain": 3,
+        "Diploma Non-Domain": 3,
+        "Basic": 4,
+        "Intermedian": 15,
+        "Advanced": 8,
+        "Trainable":8,
+        "Non-Trainable": 4,
+        "Interviewable": 15,
+        "link":"home2",
+        "fill":"#AF4BCE"
+    },
+    {
+        "Domain":"IMS",
+        "Domain Total": 30,
+        "Engineering Domain": 7,
+        "Engineering Non-Domain": 2,
+        "Science Domain": 10,
+        "Science Non-Domain": 4,
+        "Diploma Domain": 3,
+        "Diploma Non-Domain": 4,
+        "Basic": 10,
+        "Intermedian": 15,
+        "Advanced": 5,
+        "Trainable":15,
+        "Non-Trainable": 5,
+        "Interviewable": 10,
+        "link":"home",
+        "fill":"#DB4CB2"
+    },
+    {
+        "Domain":"DM",
+        "Domain Total": 13,
+        "Engineering Domain": 3,
+        "Engineering Non-Domain": 2,
+        "Science Domain": 4,
+        "Science Non-Domain": 2,
+        "Diploma Domain": 1,
+        "Diploma Non-Domain": 1,
+        "Basic": 3,
+        "Intermedian": 6,
+        "Advanced": 4,
+        "Trainable":4,
+        "Non-Trainable": 3,
+        "Interviewable": 6,
+        "link":"home1",
+        "fill":"#EB548C"
+    },
+    {
+        "Education":20,
+        "fill":"yellow"
+    },
+    {
+        "Education":13,
+        "fill":"orange"
+    },
+    {
+        "Education":38,
+        "fill":"green"
+    },
+    {
+        "Education":12,
+        "fill":"pink"
+    },
+    {
+        "Education":8,
+        "fill":"#EB548C"
+    },
+    {
+        "Education":10,
+        "fill":"lightgreen"
+    },
+    {
+        "KAT Score":24,
+        "fill":"orange"
+    },
+    {
+        "KAT Score":49,
+        "fill":"yellow"
+    },
+    {
+        "KAT Score":27,
+        "fill":"green"
+    },
+    {
+        "Communication":37,
+        "fill":"orange"
+    },
+    {
+        "Communication":19,
+        "fill":"yellow"
+    },
+    {
+        "Communication":44,
+        "fill":"green"
+    }
+]
